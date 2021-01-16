@@ -161,7 +161,7 @@ print(a)
 
 - 리스트 관련 기타 메소드
 
-![image-20210113102824337](C:\Users\82103\AppData\Roaming\Typora\typora-user-images\image-20210113102824337.png)
+![image-20210113102824337](https://user-images.githubusercontent.com/54929552/104815823-5ae21900-585a-11eb-964f-c831ec108d81.png)
 
 ```python
 a = [1,4,3]
@@ -523,12 +523,6 @@ print("정답은" + str(answer) + "입니다.")
 
 - **if ~ elif ~ else**
 - 들여쓰기: 파이썬에서는 블록을 들여쓰기로 구분한다. 파이썬 스타일 가이드라인에서는 4개의 공백 문자를 사용하는 것을 표준으로 설정한다.
-
-
-
-## 산술 연산자
-
-![image-20210114120512912](C:\Users\82103\AppData\Roaming\Typora\typora-user-images\image-20210114120512912.png)
 
 
 
