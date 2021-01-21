@@ -472,14 +472,14 @@ a, b, c = map(int, input().split())
 - 사용자로부터 입력을 최대한 빠르게 받아야 하는 경우
 
   - sys 라이브러리에 정의 되어 있는 `sys.stdin.readline()` 사용
-    - 입력 후 엔터(Enter)가 '\n'으로 입력되므로 `restrip()` 메소드 함께 사용
+    - 입력 후 엔터(Enter)가 '\n'으로 입력되므로 `rstrip()` 메소드 함께 사용
     - 이진탐색, 그래프, 트리 등의 문제에서 자주 사용된다.
 
   ```python
   import sys
   
   # 문자열 입력받기
-  data = sys.stdin.readline().rstrip()
+  data = sys.stdin.readline().restrip()
   ```
 
 
